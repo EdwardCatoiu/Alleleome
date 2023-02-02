@@ -1,0 +1,2 @@
+#### DatasetS6-Mutations_in_WT_and_Lab_strains_.xlsx
+This dataset groups the mutations described in the WT (Dataset S4, variants) and laboratory (DatasetS5) strains by their specific initial-final codon change (Codon1Codon2).  This dataset provides a total count of each observed mutation across the datasets, a Grantham score associated with each mutation, and the number of expected mutations calculated by our model (Fig. S4) for the WT strains. This data is plotted in Fig. 3, Fig. 6, and Fig. S7. More information is provided in the file.
