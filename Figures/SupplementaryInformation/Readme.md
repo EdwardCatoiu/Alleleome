@@ -1,5 +1,13 @@
 # SI Figures S1-S10 Legends
 
+The following figures and captions are presented in following manuscript.
+
+## Whole genome sequences from wild-type and laboratory evolved strains define the alleleome and establish its hallmarks.
+Edward Alexander Catoiu<sup>1</sup>, Patrick Phaneuf<sup>2</sup>, Jonathan Monk<sup>3</sup>, Bernhard O Palsson<sup>*1,2</sup>
+- <sup>1</sup>Department of Bioengineering, University of California, San Diego, La Jolla, CA 92101, USA
+- <sup>2</sup>The NNF Center for Biosustainability, The Technical University of Denmark, Lyngby, Denmark
+- <sup>3</sup>Avellino Lab, Menlo Park, CA 94025, USA
+- *Correspondence to Bernard Palsson, palsson@ucsd.edu
 
 #### Fig. S1. Phylogenetic diversity of 2,661 wild-type E. coli strains used to define the ORF alleleome. 
 (a) A cladogram of 2,661 sequenced E. coli strains shows that (b) multiple phylogroups from various geographic locations are represented. Phylotyping was done in silico using EzClermont52. Mash distances found with MashTree53 were graphed with Interactive Tree of Life (ITOL)54 to generate the cladogram. (c) The phylogenetic variation in gene content is reflected in (d) the length of amino acid positions each strain shares with the alleleome.  In these positions, (e) the amino acid residues across a given strain’s genome is often identical to the dominant amino acid in the alleleome (μglobal = 0.97). (f) The genome similarity and shared genome length to the alleleome consensus sequence for each of the 2,661 wild-type E. coli strains is shown. The panel A data can be found in Dataset S1. Panels C-F are calculated from Dataset(s) S2, S3 & S4.
