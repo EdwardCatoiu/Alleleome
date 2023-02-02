@@ -8,7 +8,7 @@ Edward Alexander Catoiu<sup>1</sup>, Patrick Phaneuf<sup>2</sup>, Jonathan Monk<
 - <sup>3</sup>Avellino Lab, Menlo Park, CA 94025, USA
 - *Correspondence to Bernard Palsson, palsson@ucsd.edu
 
-Some of the datasets may have been modified to comply with file size restrictions.
+### Some of the datasets may have been modified to comply with file size restrictions.
 
 #### DatasetS1-phylo_host_country_genome_features.xlsx
 This dataset provides the EzClermont grouping, country, and host information for 2,661 wild-type E. coli strains used in this study. This dataset is plotted in Fig. S1a-b and is used as the color scheme for Fig. S1c-f. More information is provided in the file.
