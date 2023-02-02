@@ -1,4 +1,15 @@
-# Main Text Figures 1-6 Legends
+# Main Text Figures 1-6 and Captions
+
+The following figures and captions are presented in following manuscript.
+
+## Whole genome sequences from wild-type and laboratory evolved strains define the alleleome and establish its hallmarks.
+Edward Alexander Catoiu1, Patrick Phaneuf2, Jonathan Monk3, Bernhard O Palsson*1,2
+1Department of Bioengineering, University of California, San Diego, La Jolla, CA 92101, USA
+2The NNF Center for Biosustainability, The Technical University of Denmark, Lyngby, Denmark
+3Avellino Lab, Menlo Park, CA 94025, USA
+*Correspondence to Bernard Palsson
+Email: palsson@ucsd.edu
+
 
 
 
