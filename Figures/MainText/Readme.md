@@ -1,5 +1,8 @@
 # Main Text Figures 1-6 Legends
 
+
+![alt text](https://github.com/[EdwardCatiuy]/[Alleleome]/Figures/MainText/Fig1-pdeB_alleleome.png?raw=true)
+
 #### Figure 1. The natural sequence variation in one gene. 
 (a) Alignment of all unique amino acid sequences (alleles) of a single gene (an Open Reading Frame, ORF – in this case pdeB) present in the whole genome sequences of up to (see Fig. S2) 2,661 wild-type E. coli strains are used to calculate (b) the wild-type (WT) occurrence of every amino acid residue at every amino acid position across the ORF. (c) ‘Dominant’ (of highest occurrence) and ‘variant’ (non-dominant) amino acids (AAs) and their respective normalized WT occurrences for select amino acid positions are shown on a protein structure. (d) The dominant amino acid residues are used to define the ‘wild-type consensus sequence’ while deviations from this sequence describe the full set of amino acid substitutions in the ORF. (e) A position-independent and normalized view of the WT consensus sequence and amino acid substitutions found in an ORF are used to describe the ‘alleleome’ of a single gene.
  
