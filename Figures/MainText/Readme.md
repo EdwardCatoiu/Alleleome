@@ -57,7 +57,7 @@ Edward Alexander Catoiu<sup>1</sup>, Patrick Phaneuf<sup>2</sup>, Jonathan Monk<
 
 
 <p align="center">
-  <img width="500" src="https://github.com/EdwardCatoiu/Alleleome/blob/main/Figures/MainText/Fig7.pdf">
+  <img width="500" src="https://github.com/EdwardCatoiu/Alleleome/blob/main/Figures/MainText/Fig7-evolutionary_pressures.png">
 </p>
 
 #### Figure 7. Purifying selection and diversifying selection have opposite influences on wild-type and laboratory-evolved strains of E. coli.   
