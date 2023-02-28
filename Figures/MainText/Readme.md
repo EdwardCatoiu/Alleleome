@@ -1,4 +1,4 @@
-# Main Text Figures 1-6 and Captions
+# Main Text Figures 1-7 and Captions
 
 The following figures and captions are presented in following manuscript.
 
