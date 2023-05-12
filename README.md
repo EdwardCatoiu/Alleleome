@@ -1,5 +1,5 @@
 # Alleleome
-This repository contains the data used to generate the figures and analysis presented in the manuscript :
+This repository contains the data used to generate the figures and analysis presented in the [manuscript](https://www.pnas.org/doi/10.1073/pnas.2218835120) :
 
 
 ## Whole genome sequences from wild-type and laboratory evolved strains define the alleleome and establish its hallmarks.
